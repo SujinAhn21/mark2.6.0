@@ -1,0 +1,11 @@
+# Performance Summary for mark2.6.0
+
+Metric,Score
+Accuracy,0.7833333333333333
+ROC AUC,0.9766666666666667
+
+# Class-wise Metrics
+
+Class,Precision,Recall,F1-Score
+water,1.0,0.5666666666666667,0.723404255319149
+others,0.6976744186046512,1.0,0.821917808219178
